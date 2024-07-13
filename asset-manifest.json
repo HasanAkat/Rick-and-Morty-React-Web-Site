@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Rick-and-Morty-React-Web-Site/static/css/main.aa8a3bc3.css",
-    "main.js": "/Rick-and-Morty-React-Web-Site/static/js/main.365ba9c4.js",
+    "main.css": "/Rick-and-Morty-React-Web-Site/static/css/main.8270d0c5.css",
+    "main.js": "/Rick-and-Morty-React-Web-Site/static/js/main.29cdd2d0.js",
     "static/js/453.024d4799.chunk.js": "/Rick-and-Morty-React-Web-Site/static/js/453.024d4799.chunk.js",
     "static/media/background.png": "/Rick-and-Morty-React-Web-Site/static/media/background.5d8c646d31a9635151a0.png",
     "static/media/logo.png": "/Rick-and-Morty-React-Web-Site/static/media/logo.c9ae1c728fb542a7badb.png",
     "index.html": "/Rick-and-Morty-React-Web-Site/index.html",
-    "main.aa8a3bc3.css.map": "/Rick-and-Morty-React-Web-Site/static/css/main.aa8a3bc3.css.map",
-    "main.365ba9c4.js.map": "/Rick-and-Morty-React-Web-Site/static/js/main.365ba9c4.js.map",
+    "main.8270d0c5.css.map": "/Rick-and-Morty-React-Web-Site/static/css/main.8270d0c5.css.map",
+    "main.29cdd2d0.js.map": "/Rick-and-Morty-React-Web-Site/static/js/main.29cdd2d0.js.map",
     "453.024d4799.chunk.js.map": "/Rick-and-Morty-React-Web-Site/static/js/453.024d4799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa8a3bc3.css",
-    "static/js/main.365ba9c4.js"
+    "static/css/main.8270d0c5.css",
+    "static/js/main.29cdd2d0.js"
   ]
 }
