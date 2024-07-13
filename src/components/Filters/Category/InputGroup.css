@@ -1,0 +1,37 @@
+/* InputGroup bileþenleri için özel stil tanýmlamalarý */
+
+.input-group label {
+  margin-right: 10px; /* Etiketler arasý boþluk */
+  color: #7cff49; /* Etiket yazý rengi */
+}
+
+.input-group input[type="number"] {
+  background-color: black; /* Input arka plan rengi */
+  color: #7cff49; /* Input yazý rengi */
+  border: 1px solid #7cff49; /* Input kenarlýk rengi */
+  padding: 5px 10px; /* Input iç boþluk */
+}
+
+.input-group select {
+  background-color: black; /* Select arka plan rengi */
+  color: #7cff49; /* Select yazý rengi */
+  border: 1px solid #7cff49; /* Select kenarlýk rengi */
+  padding: 5px 10px; /* Select iç boþluk */
+}
+
+.input-group input[type="number"]:focus,
+.input-group select:focus {
+  outline: none; /* Odaklandýðýnda kenarlýk olmasýn */
+  border-color: #7cff49; /* Odaklandýðýnda kenarlýk rengi */
+}
+
+.input-group .form-select {
+  background-color: black; /* Form select arka plan rengi */
+  color: #7cff49; /* Form select yazý rengi */
+  border: 1px solid #7cff49; /* Form select kenarlýk rengi */
+}
+
+.input-group .form-select:focus {
+  outline: none; /* Odaklandýðýnda kenarlýk olmasýn */
+  border-color: #7cff49; /* Odaklandýðýnda kenarlýk rengi */
+}

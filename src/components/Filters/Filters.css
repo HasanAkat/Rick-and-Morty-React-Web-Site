@@ -1,0 +1,53 @@
+/* Filters.css */
+
+.accordion {
+  background-color: black;
+}
+
+.accordion-item {
+  background-color: black;
+  border: none;
+}
+
+.accordion-header {
+  background-color: black;
+}
+
+.accordion-button {
+  color: white;
+  background-color: black;
+  border: none;
+}
+
+.accordion-button:not(.collapsed) {
+  color: white;
+  background-color: black;
+}
+
+.accordion-button:focus {
+  border-color: black;
+  box-shadow: none;
+}
+
+.accordion-body {
+  color: white;
+  background-color: black;
+}
+
+button.accordion-button {
+  color: white;
+  background-color: black;
+}
+
+button.accordion-button:hover {
+  color: white;
+  background-color: green;
+}
+
+button.accordion-button:focus {
+  box-shadow: none;
+}
+
+.accordion-button::after {
+  background-image: none;
+}
